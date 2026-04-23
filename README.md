@@ -3,7 +3,7 @@
 MSc student in **IT and Cognition** at **University of Copenhagen**, specializing in **Natural Language Processing**.  
 Interested in the linguistic aspects of NLP, especially **syntax**, **morphology**, and **multilingual modeling**.
 
----
+
 
 ## Selected Projects
 
