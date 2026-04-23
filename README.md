@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Yi Shi 👋
 
-<!--
-**yshialexandra/yshialexandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in **IT and Cognition** at **University of Copenhagen**, specializing in **Natural Language Processing**.  
+Interested in the linguistic aspects of NLP, especially **syntax**, **morphology**, and **multilingual modeling**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+### Voight-Kampff Generative AI Detection Shared Task
+Built an end-to-end pipeline for binary machine-generated text detection using **PyTorch**, **Hugging Face Transformers**, and **LoRA/PEFT**, with a focus on robust training and data augmentation.
+
+### Exploring Syntactic Features of LLM-Translated Chinese  
+Conducted an exploratory analysis of syntactic differences between original Chinese texts and LLM translations using a comparable corpus, dependency-parsed syntactic features, and Random Forest-based feature analysis.
+
+### German Lexical Difficulty Analyzer
+Developed a tool for comparing normalized text vocabulary against curriculum-based vocabulary lists. Implemented German morphological normalization with **spaCy**, and built rule-based algorithms for detecting and normalizing separable verbs.
